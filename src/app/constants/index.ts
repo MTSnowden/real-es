@@ -126,24 +126,24 @@ export const ABOUT_US_TEXT = `At RealEs, we are committed to providing exception
 
 export const TESTIMONIALS = [
   {
-    name: "Jane Doe",
-    instagram: "@jane.doe",
+    name: "James Doe",
+    instagram: "@james.doe",
     feedback:
       "Amazing service! The team went above and beyond to find me the perfect home. I couldn't be happier!",
     city_country: "New York, USA",
     image: "/profile-pictures/user1.jpg",
   },
   {
-    name: "John Smith",
-    instagram: "@john.smith",
+    name: "Emily Wang",
+    instagram: "@emily.w",
     feedback:
       "I was impressed by their professionalism and dedication. Highly recommend their services! I'm so grateful for their expertise.",
     city_country: "London, UK",
     image: "/profile-pictures/user2.jpg",
   },
   {
-    name: "Maria Garcia",
-    instagram: "@maria.g",
+    name: "Marcus Garcia",
+    instagram: "@marcus.g",
     feedback:
       "Excellent experience working with them. They made the whole process smooth and stress-free.",
     city_country: "Madrid, Spain",
@@ -158,24 +158,24 @@ export const TESTIMONIALS = [
     image: "/profile-pictures/user4.jpg",
   },
   {
-    name: "Emily Wang",
-    instagram: "@emily.w",
+    name: "John Smith",
+    instagram: "@j.smith",
     feedback:
       "Exceptional service and attention to detail. I would definitely use their services again.",
     city_country: "Shanghai, China",
     image: "/profile-pictures/user5.jpg",
   },
   {
-    name: "Luca Rossi",
-    instagram: "@luca.r",
+    name: "Sarah Johnson",
+    instagram: "@sarah.j",
     feedback:
       "Professional and knowledgeable team. They helped me find my dream home in Milan.",
     city_country: "Milan, Italy",
     image: "/profile-pictures/user6.jpg",
   },
   {
-    name: "Sarah Johnson",
-    instagram: "@sarah.j",
+    name: "Luca Rossi",
+    instagram: "@rossi.luca",
     feedback:
       "I'm so grateful for their expertise. They made the whole buying process a breeze.",
     city_country: "Sydney, Australia",

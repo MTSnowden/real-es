@@ -24,7 +24,7 @@ const Services = () => {
           <h2 className="mt-10 text-5xl lg:text-7xl">
             We are
             <span className="leading-snug lg:block">available in</span>
-            <span className="font-bold">40+ Countries!</span>
+            <span className="font-bold"> 40+ Countries!</span>
           </h2>
           <p className="max-w-xl py-6 tracking-tighter lg:pr-20">{SERVICES_TEXT}</p>
         </div>
