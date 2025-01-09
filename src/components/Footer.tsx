@@ -34,6 +34,9 @@ const Footer = () => {
                     </div>
                 ))}
             </div>
+            <p className="p-4 text-center text-sm text-neutral-500">
+                {FOOTER.copyright}
+            </p>
         </div>
     </div>
     )
